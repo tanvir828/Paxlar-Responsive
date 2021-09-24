@@ -1,0 +1,181 @@
+@media(max-width:1399px){
+
+}
+@media(max-width:1199px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+        margin-left: 12px;
+    }
+    .top_header ul li a {
+        font-size: 14px;
+    }
+    .top_header p {
+        font-size: 14px;
+    }
+    .banner_section h1 {
+        font-size: 38px;
+    }
+}
+@media(max-width:992px){
+    .btn-join {
+        display: none;
+    }
+    .media {
+        display: inherit;
+        margin: 0;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .top_header {
+        display: none;
+    }
+    .banner_section .hg {
+        min-height: 87vh;
+    }
+    .instraction_items h5 {
+        font-size: 15px;
+    }
+    .instraction_items p {
+        font-size: 14px;
+    }
+    .service_section h3 {
+        font-size: 17px;
+    }
+    .bitcoin-img {
+        width: 40%;
+    }
+
+}
+@media(max-width:768px){
+    .instraction_items {
+        margin-bottom: 30px;
+    }
+    .mg{
+        margin-bottom: 20px;
+    }
+    .features_section .phone {
+        display: none;
+    }
+    .safe .lock, .mobile .lock, .wallet .lock, .experts .lock, .instant .lock, .recuring .lock {
+        width: 50px;
+        height: 50px;
+        line-height: 44px;
+    }
+    .safe p, .mobile p, .wallet p, .experts p, .instant p, .recuring p {
+        margin-top: 5px;
+        font-size: 14px;
+    }
+    .safe {
+        left: 15%;
+        bottom: 92%;
+        transform: translate(-15%, 92%);
+    }
+    .mobile {
+        bottom: 32%;
+        left: 15%;
+        transform: translate(-15%, -32%);
+    }
+    .wallet {
+        left: 16%;
+        bottom: 0%;
+        transform: translate(-8%, 0%);
+    }
+    .experts {
+        right: 7%;
+        bottom: 90%;
+        transform: translate(-7%, -92%);
+    }
+    .instant {
+        bottom: 32%;
+        right: 7%;
+        transform: translate(-7%, -30%);
+    }
+    .recuring {
+        right: 8%;
+        bottom: 0%;
+        transform: translate(-8%, 0%);
+    }
+
+    .blog-items{
+        margin-bottom: 25px;
+    }
+    .footer-logo {
+        margin-bottom: 15px;
+    }
+    .footer_top .content p {
+        margin-bottom: 15px;
+    }
+    .footer_top .content ul {
+        margin-bottom: 20px;
+    }
+    .content2 h3 {
+        margin-bottom: 15px;
+    }
+    .content2 {
+        margin-bottom: 20px;
+    }
+    .content2 span {
+        margin-bottom: 20px;
+    }
+    .content3 ul li {
+        margin-bottom: 7px;
+    }
+    form input[type="submit"]{
+        width: 24%;
+    }
+    .team_section .team-img {
+        margin-bottom: 20px;
+    }
+
+}
+@media(max-width:576px){
+    .banner_section h1 {
+        font-size: 30px;
+    }
+    .items h6 {
+        font-size: 18px;
+    }
+    .items p {
+        font-size: 14px;
+    }
+    .join-us {
+        padding: 5px 13px;
+    }
+    .contact-us {
+        padding: 5px 13px;
+    }
+    .features_section {
+        padding: 50px 0;
+    }
+    .features_section h1 {
+        font-size: 22px;
+    }
+    .features_section ul {
+        margin-top: 30px;
+    }
+    .features_section ul li {
+        margin: 20px 0;
+    }
+    .features_section h3 {
+        font-size: 18px;
+    }
+    .features_section .box {
+        width: 45px;
+        height: 45px;
+    }
+    .count_section h1 {
+        font-size: 32px;
+    }
+    .count_section p {
+        font-size: 14px;
+    }
+    .count_section {
+        padding: 25px 0;
+    }
+    .footer_top {
+        padding-bottom: 0 !important;
+        padding-bottom: 10px !important;
+    }
+
+}
